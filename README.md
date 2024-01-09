@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Martha-Boahene
 - 👀 I’m interested in Data Science and data Analysis
-- 🌱 I’m currently learning Statistics at Ball State University
+- 🌱 I’m currently studying Statistics at Harvard University
 - 💞️ I’m looking to collaborate on projects on survival analysis
 
 <!---
